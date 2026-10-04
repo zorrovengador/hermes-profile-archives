@@ -1,97 +1,88 @@
 {
   "created_utc": "20261004T211046Z",
+  "revision": "public-clean-1",
   "profile_count": 10,
   "profiles": [
     {
       "profile": "default",
       "file": "default.tar.gz",
-      "size": 15060027,
-      "sha256": "d0ab3cbf9a8ccaa59cfa99a7484214a1e9a45c1d862cdb289ebc2aeb0ed3cfc2",
-      "git_blob_sha1": "73b7f76f648fe132b904222b8cb2a7034aabe1f9",
-      "files": 1437,
-      "skills": 252
+      "size": 2315488,
+      "sha256": "bc5cc0c926c9da329cfb1903107b0fc65bcab116290560f01ad453b23c289db7",
+      "files": 1058,
+      "skills": 205
     },
     {
       "profile": "comercial",
       "file": "comercial.tar.gz",
-      "size": 12030051,
-      "sha256": "7e1578deac11da3407163f92088f438bd8c25c345b166f319cb69d555bdf2f69",
-      "git_blob_sha1": "a19fad607ae151d49061834a15333b81257a3191",
-      "files": 1070,
+      "size": 2109850,
+      "sha256": "cfe62ee3bdfb4fbc7b6ad2638dc395643601815f47974eaad086fe3021154f83",
+      "files": 982,
       "skills": 188
     },
     {
       "profile": "contador",
       "file": "contador.tar.gz",
-      "size": 2136870,
-      "sha256": "b97c5596a5ca87fa6dca3debea8025865dbf63004b077969f6ef39d8b2e64c9c",
-      "git_blob_sha1": "a2287ebf7fe79445f0f888bc923b3e7c04f5651a",
-      "files": 590,
+      "size": 1503991,
+      "sha256": "e1afe966d9bd2e72b3582d8baaadc1f16c8e3a1f715e28d6642b93da6a572399",
+      "files": 540,
       "skills": 107
     },
     {
       "profile": "contenido",
       "file": "contenido.tar.gz",
-      "size": 12032077,
-      "sha256": "aa85c3e816efbae22c5efb46b58a93c540efefd54b49df2945877b9b8a28fe6a",
-      "git_blob_sha1": "8a31b47c1942954e11b66c7174bee272cd9f7c1f",
-      "files": 1070,
+      "size": 2112041,
+      "sha256": "f1a8c6e0cd56f372a958fa9fd6a29d0fd09da0f329d43d0f9bff245f847534fc",
+      "files": 982,
       "skills": 188
     },
     {
       "profile": "contratosmuchacho",
       "file": "contratosmuchacho.tar.gz",
-      "size": 65021,
-      "sha256": "9ff000259af419b4f3ca05d9c70788b8d4199eaf1657b89993ee5fc8713b5a0a",
-      "git_blob_sha1": "64587921f0f3c2122e53112ffb19638501f92187",
-      "files": 46,
-      "skills": 4
+      "size": 56974,
+      "sha256": "ea140c525b8f73ff1b257dce1efe5abf0978b6176c77797bdf5efda43a42be60",
+      "files": 31,
+      "skills": 2
     },
     {
       "profile": "director-general",
       "file": "director-general.tar.gz",
-      "size": 1989545,
-      "sha256": "9805ad338466429d5267524e597a0eb61a39564b4baf2c6e477784c043607ea8",
-      "git_blob_sha1": "0984785b3ec619cc56b1fad7035fe56265f38936",
-      "files": 522,
+      "size": 1357287,
+      "sha256": "8d8acd737ac0615d2185419bd70957729109039d48209e4ae8f650560b940f35",
+      "files": 472,
       "skills": 90
     },
     {
       "profile": "operaciones",
       "file": "operaciones.tar.gz",
-      "size": 12031180,
-      "sha256": "ed557b3019779e0df3ffab5cd548e6a79a521ab0c9b47451bcc443fea0c80efc",
-      "git_blob_sha1": "26c4e59e024d0b696a427e20075d8a0ac2548285",
-      "files": 1070,
+      "size": 2110768,
+      "sha256": "dd5319d5a0b8f77edbca8eb99c25943e0fdb7ed9279621774fd1c93df5af39ae",
+      "files": 982,
       "skills": 188
     },
     {
       "profile": "pandora",
       "file": "pandora.tar.gz",
-      "size": 16013562,
-      "sha256": "ffd8276daa379a5a8a2743c11534e8a3421f4fa6c4cad7d62efd31a024b82658",
-      "git_blob_sha1": "1b5af4319fcfec371200ce6730ba56749874e8c1",
-      "files": 1427,
+      "size": 3942987,
+      "sha256": "6f50a394812b998f48b1d9141e57310f6b5790552de1cd52c4e49c1b80c3d98f",
+      "files": 1302,
       "skills": 223
     },
     {
       "profile": "radarrana",
       "file": "radarrana.tar.gz",
-      "size": 53373,
-      "sha256": "0f5c0e162f38b722aea9b5d27943fc8d9d8948c8ec602674285990fb9ceece32",
-      "git_blob_sha1": "7d63db34c6bd96987e50a8b90ec90e22cd342003",
-      "files": 33,
+      "size": 52727,
+      "sha256": "c628c5fddd00d3326fee0d5da866a76d0bfa04bf6f6f22ffa209cbe2eba86415",
+      "files": 28,
       "skills": 2
     },
     {
       "profile": "trader",
       "file": "trader.tar.gz",
-      "size": 1711,
-      "sha256": "ba37146d07322705c187ce7e1b6e8aac37f06d83b9e44dd2db5a65571703a105",
-      "git_blob_sha1": "6406e5c6e54975b69f7c25d26af031e5dfb2f304",
-      "files": 6,
+      "size": 1489,
+      "sha256": "f110bf36dc8b62ddf37fd1aebe77005db946f1abdd10b25e4959932c37447fdf",
+      "files": 5,
       "skills": 0
     }
   ],
-  "scope": "portable config/persona/skills only; no credentials, memory, conversations, crons or active connections"
+  "scope": "Public sanitized config/persona/procedural skills; private state, hidden backups and binary document assets excluded."
 }
